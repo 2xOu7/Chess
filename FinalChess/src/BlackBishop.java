@@ -11,7 +11,6 @@ public class BlackBishop extends Chesspiece {
 	public BlackBishop() {
 		super(getScaledIcon(image));
 		color = Color.BLACK;
-		// TODO Auto-generated constructor stub
 	}
 	
 	/*** Returns all possible areas where the black bishop can move to the left forwards
